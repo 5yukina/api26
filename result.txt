@@ -1,0 +1,8 @@
+test_reg_ok (test_xzs_reg.MyTestCase) ... ok
+test_login_err (test_xzs_login.MyTestCase) ... ok
+test_login_ok (test_xzs_login.MyTestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.203s
+
+OK
